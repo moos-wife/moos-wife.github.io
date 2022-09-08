@@ -5,7 +5,7 @@ Hello World repository for Git tutorial
 This is an example repository for the Git tutorial on https://www.w3schools.com
 
 > I am very distracted.  This is interesting, but hard to get completely into it. 
-
+> Now I am adding a line to test editing on the online master
 This repository is built step by step in the tutorial.
 
 ###  I will have to do the merge/push/pull tutorial again
